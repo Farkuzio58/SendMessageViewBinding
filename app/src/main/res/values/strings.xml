@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="TvUserInfo">Muestra la información del usuario</string>
+    <string name="tvMessageText">La información del mensaje</string>
+    <string name="Escribe">Escribe tu mensaje</string>
+    <string name="About">Sobre Mi</string>
+    <string name="Menu_About" translatable="false">Menu</string>
+    <string name="cardTitle">Autor</string>
+    <string name="forkToGitHub">Enlace a GitHub</string>
+    <string name="version" translatable="false">Version</string>
+    <string name="miNombre" translatable="false">Alejandro Valle Rodríguez</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="tvTitleMessage_textSize">30dp</dimen>
+    <dimen name="tvMessage_margin">12dp</dimen>
+    <dimen name="tvUserInfo_margin">12dp</dimen>
+    <dimen name="edMessage_normalMargin">16dp</dimen>
+    <dimen name="edMessage_bottomMargin">80dp</dimen>
+    <dimen name="tvTitleMessage_topMargin">40dp</dimen>
+    <dimen name="edMessage_withHeight">0dp</dimen>
+    <dimen name="faSend_margin">16dp</dimen>
+
+
+
+
+</resources>

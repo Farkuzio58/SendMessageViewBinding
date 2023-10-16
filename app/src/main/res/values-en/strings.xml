@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="TvUserInfo">The user´s info</string>
+    <string name="tvMessageText">The message´s info</string>
+    <string name="Escribe">Write your message:</string>
+    <string name="About">About Me</string>
+    <string name="cardTitle">Author</string>
+    <string name="forkToGitHub">Fork to GitHub</string>
+</resources>
