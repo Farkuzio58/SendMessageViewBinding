@@ -4,7 +4,7 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">#792EFF00</item>
+        <item name="colorPrimaryDark">@color/green</item>
     </style>
 
     <style name="Theme.SendMessage" parent="Base.Theme.SendMessage" />
