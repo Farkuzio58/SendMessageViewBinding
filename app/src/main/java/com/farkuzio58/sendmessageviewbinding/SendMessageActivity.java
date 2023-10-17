@@ -56,7 +56,7 @@ public class SendMessageActivity extends AppCompatActivity {
     private void sendMessage() {
         Intent intent = new Intent(this, ViewActivity.class);
         Bundle bundle = new Bundle();
-        Person person = new Person("Jose Enrique", "Valle", "0982475J");
+        Person person = new Person("Alejandro", "Valle", "12345678L");
         Message message = new Message(1, binding.edMessage.getText().toString(), person, person);
         bundle.putParcelable(Message.KEY, message);
         intent.putExtras(bundle);

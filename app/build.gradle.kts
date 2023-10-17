@@ -48,4 +48,6 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     implementation("com.github.daniel-stoneuk:material-about-library:3.1.2")
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+
 }
